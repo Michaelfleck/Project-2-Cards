@@ -1,6 +1,13 @@
+@config darkMode: 'class';
+
+
 @import "tailwindcss";
 
 body {
+    background-color: #effbf9
+}
+
+.light body {
     background-color: #050a1d
 }
 
